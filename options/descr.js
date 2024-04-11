@@ -9,7 +9,7 @@ const product=[
         id:2,
         name:"sugar",
         amount:1,
-        pricePerUnit:2000
+        pricePerUnit:2000,
     }
 ]
 module.exports={
